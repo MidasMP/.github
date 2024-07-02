@@ -1,5 +1,5 @@
 <img src="https://github.com/MidasMP/MidasMP/blob/main/assets/MidasMP.png?raw=true">
-# MidasMP
-## Project Midas
+<h1>MidasMP</h1>
+<h3>Project Midas</h3>
 
-Hello, we're MidasMP, we make Fortnite backends for OG projects and other great solutions.
+Hello, we're MidasMP, we make solutions for OG projects such as backends and more.
