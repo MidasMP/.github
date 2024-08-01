@@ -2,4 +2,4 @@
 <h1>MidasMP</h1>
 <h3>Project Midas</h3>
 
-Hello, we're MidasMP, we make solutions for OG projects such as backends and more.
+We're MidasMP, maker of Solera Backend and Project Midas, a chapter 2 season 2 og fortnite project.
